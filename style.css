@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.primary-button{
+    padding: 0 20px; 
+    border: none;
+    background-color: #FD6E0A;
+    border-radius: 3px;
+    color: white;
+}
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  justify-content: baseline;
+  margin: 50px;
+}
+.mary{
+    padding: 10px;
+}
+.ul-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+ul>li{
+    list-style: none;
+    padding: 10px;
+}
