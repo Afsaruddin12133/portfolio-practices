@@ -90,3 +90,30 @@ ul>li{
     height: 620px;
     object-fit: cover;
 }
+
+
+/* About me css style */
+
+.about-me-container{
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    text-align: center;
+    width: 1140px;
+    height: 550px;
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.amc-info-container{
+    margin: 130px 150px ;
+}
+.amc-info-container > *{
+    padding-bottom: 20px;
+}
+.amc-info{
+    display: flex;
+    justify-content: space-around;
+}
+
