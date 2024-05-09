@@ -195,7 +195,32 @@ ul>li{
 .rc-info > div > h4 {
     margin-bottom: 5px; 
 }
+.downloadbtn{
+    display: block;
+    margin: 0 auto;
+}
 
+/* css apply for footer */
 
+.footer-container{
+    background-color: #FFF8F3;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.footer-container > div{
+    width: 500px;
+    margin: 130px;
+}
+.footer-container > div > * {
+    margin-bottom: 10px;
+}
+
+.footer-container > div form input, textarea{
+    display: block;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: none;
+}
 
 
