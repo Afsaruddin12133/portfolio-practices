@@ -117,3 +117,51 @@ ul>li{
     justify-content: space-around;
 }
 
+/* style for what i do container */
+
+
+.whatIdo-container{
+    text-align: center;
+    width: 1140px;
+    margin:100px auto;
+}
+.whatIdo-container > *{
+    padding-bottom: 30px;
+}
+
+.language-box-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.language-box-container div{
+    width: 267px;
+    height: 377px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.language-box-container img{
+    width: 44px;
+    height: 44px;
+    display: block;
+    padding: 30px 30px;
+}
+.language-box-container h1{
+    color:  #181818;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.language-box-container  h4{
+    margin: 0px 60px 20px 30px;
+    text-align: left;
+}
+.language-box-container  p{
+    text-align: left;
+    padding: 30px;
+    line-height: 30px;
+}
