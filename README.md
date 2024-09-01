@@ -10,12 +10,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+  
 ## Project Overview
 
 The Portfolio Practices project is a personal portfolio website designed to showcase your skills, projects, and professional background. It serves as a practice project to enhance your web development skills, focusing on creating a clean, modern, and responsive portfolio that can be used to present your work to potential employers or clients.
